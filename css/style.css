@@ -213,4 +213,18 @@ body {
     .features {
         padding-bottom: 0;
     }
+    .main-nav {
+        margin-left: -30px;
+    }
+    .secondary-menu {
+        margin-left: -50px;
+    }
+    .logo{
+        margin-left: 20px;
+    }
+    .footer-nav  {
+        margin-left: -20px;
+        line-height: 40px;
+    }
+
 }
